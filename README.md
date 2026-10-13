@@ -8,7 +8,7 @@ La idea está basada en el texto “The Geometry of Musical Rhythm” de Godfrie
 
 [Introducción (Drive)](https://drive.google.com/file/d/1ZOYT7SDBXCOxy4kJa1APnBfPdt4CTb6m/view?usp=sharing)
 
-[Introducción (https://img.youtu.be/plEfalXWJqw.jpg)](https://youtu.be/plEfalXWJqw)
+[Introducción (https://img.youtube.com/vi/plEfalXWJqw.jpg)](https://youtu.be/plEfalXWJqw)
 
 
 DESCRIPCIÓN GENERAL
